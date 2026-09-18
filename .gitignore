@@ -1,7 +1,7 @@
 # SAM2 Model Checkpoints (too large for GitHub)
 checkpoints/*.pt
 
-# Dataset (too large for GitHub - reference external link instead)
+# Dataset (too large for GitHub - see DATASET_INSTRUCTIONS.md)
 FireSentry-Benchmark-Dataset/
 
 # Python cache
@@ -28,8 +28,6 @@ firesentry_results/
 infrared_frame.jpg
 ground_truth_mask.jpg
 verification_comparison.png
-*.mp4
-*.avi
 
 # OS files
 .DS_Store
